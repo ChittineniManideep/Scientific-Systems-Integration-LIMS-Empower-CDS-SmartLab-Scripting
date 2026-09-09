@@ -1,0 +1,31 @@
+sample_id,test_type,final_status,transitions
+SMPL-50000,Assay (HPLC),Released,4
+SMPL-50001,Assay (HPLC),Rejected,2
+SMPL-50002,Impurities,Released,4
+SMPL-50003,Content Uniformity,Released,4
+SMPL-50004,Assay (HPLC),Released,6
+SMPL-50005,Impurities,Released,4
+SMPL-50006,Dissolution,Released,4
+SMPL-50007,Dissolution,Released,4
+SMPL-50008,pH,Rejected,2
+SMPL-50009,Assay (HPLC),Released,4
+SMPL-50010,Dissolution,Released,4
+SMPL-50011,Impurities,Rejected,2
+SMPL-50012,Assay (HPLC),Released,4
+SMPL-50013,Impurities,Released,4
+SMPL-50014,Impurities,Released,4
+SMPL-50015,Assay (HPLC),Rejected,2
+SMPL-50016,Impurities,Released,4
+SMPL-50017,Impurities,Released,4
+SMPL-50018,Impurities,Released,4
+SMPL-50019,Impurities,Released,4
+SMPL-50020,pH,Released,4
+SMPL-50021,Content Uniformity,Released,4
+SMPL-50022,Content Uniformity,Released,4
+SMPL-50023,Dissolution,Released,4
+SMPL-50024,Impurities,Released,4
+SMPL-50025,Assay (HPLC),Rejected,2
+SMPL-50026,Assay (HPLC),Released,4
+SMPL-50027,Dissolution,Rejected,2
+SMPL-50028,Content Uniformity,Released,4
+SMPL-50029,Dissolution,Released,4
